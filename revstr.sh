@@ -10,5 +10,4 @@ do
 length=` expr $length - 1 `
 done
 	echo "Reverse of $str is $var_old"
-#revstr is edited in revstr branch
-editted this file
+#revstr is edited in string branch 
